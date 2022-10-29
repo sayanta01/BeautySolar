@@ -4,7 +4,6 @@ Comment=Parius Flat Mix dark interface
 Inherits=breeze-dark,elementary,gnome,hicolor
 
 Example=folder
-
 FollowsColorScheme=true
 
 DesktopDefault=48
