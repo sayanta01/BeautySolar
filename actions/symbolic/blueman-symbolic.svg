@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="blueman-tray-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="48.5625"
+     inkscape:cx="8"
+     inkscape:cy="7.958816"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:#5c616c"
+     d="M 8.5,0 C 5.45,0 3,2.68 3,6 v 4 c 0,3.32 2.45,6 5.5,6 3.05,0 5.5,-2.68 5.5,-6 V 6 C 14,2.68 11.55,0 8.5,0 Z M 8,1.945249 8.5314456,1.8214456 l 3.3525334,3.352533 -0.02903,0.679517 v 0 L 9.3,8 l 2.544492,2.137719 0.07994,0.647851 v 0 L 8.5468436,14.163156 8,13.968167 v 0 -4.4278829 0 L 7.7168764,9.327684 5.8061159,10.931779 v 0 l -0.4167457,-0.01628 -0.255588,-0.303511 v 0 l 0.027184,-0.436101 2.271171,-1.90875 v 0 l 0.04295,-0.4981834 -2.3047015,-1.93693 -0.073365,-0.4003647 v 0 L 5.4166301,5.0521268 v 0 L 5.7926419,5.0569092 7.6900085,6.6497603 8,6.5055219 v 0 z M 9.3638386,4.0738386 9,4.2053565 v 2.2580243 0 L 9.4002063,6.6134629 10.453618,5.7276396 v 0 L 10.428735,5.1387354 Z M 9,9.6207418 v 0 2.0655122 0 l 0.3973616,0.206384 1.0732264,-1.073226 v 0 l -0.0065,-0.538276 -1.0092442,-0.8486823 z"
+     id="path2"
+     sodipodi:nodetypes="sssssssccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

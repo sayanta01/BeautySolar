@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="network-wireless-hotspot-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="39.6875"
+     inkscape:cx="8"
+     inkscape:cy="8.0125984"
+     inkscape:window-width="1874"
+     inkscape:window-height="925"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="fill:#5c616c"
+     d="M 8,1 C 4.9069291,1.0031077 2.1825615,3.0358623 1.2988281,6 H 3.4199219 C 4.2148034,4.1786969 6.0127958,3.0009928 8,3 c 1.985786,0.00254 3.781859,1.1799949 4.576172,3 h 2.128906 C 13.820931,3.0344785 11.094516,1.001382 8,1 Z M 8,4 C 6.8868922,4.0015618 5.5731301,4.6172882 4.9807265,5.5756504 4.8973316,5.7105627 5.3491885,5.852265 5.2969565,6 V 6 H 10.663567 V 6 C 10.611098,5.8515934 11.005581,5.7092756 10.924378,5.573814 10.350148,4.615901 9.1131123,4.0008369 8,4 Z M 1.4556954,7.5207947 v 0 l 5.8892628,6.7305863 v 0 L 8.67059,14.233611 14.522279,7.5459667 v 0 L 14.367104,7 H 1.7440837 Z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccsccccsccccccccccc" />
+</svg>
