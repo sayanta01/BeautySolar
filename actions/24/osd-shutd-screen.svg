@@ -19,13 +19,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="34.625"
-     inkscape:cx="11.98556"
-     inkscape:cy="12"
-     inkscape:window-width="1502"
-     inkscape:window-height="1039"
-     inkscape:window-x="208"
-     inkscape:window-y="19"
+     inkscape:zoom="69.25"
+     inkscape:cx="11.99278"
+     inkscape:cy="13.140794"
+     inkscape:window-width="1482"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9" />
   <defs
@@ -39,9 +39,9 @@
   <path
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="m 6,11 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -5 c 0,-0.554 -0.446,-1 -1,-1 z m 7.576172,1.734375 0.847656,0.53125 -1.992606,3.187825 v 0 l -0.578229,0.241018 -2.1108055,-1.26478 0.5156255,-0.859376 1.253456,0.753935 0.547526,-0.161388 v 0 z"
+     d="m 6,11 c -0.554,0 -1,0.446 -1,1 v 5 c 0,0.554 0.446,1 1,1 h 8 c 0.554,0 1,-0.446 1,-1 v -5 c 0,-0.554 -0.446,-1 -1,-1 z m 7.448206,1.939178 0.327707,-0.07962 0.437514,0.274203 0.08065,0.33945 v 0 l -1.862851,2.980239 v 0 l -0.578229,0.241018 -1.9070271,-1.142677 -0.092739,-0.307168 v 0 l 0.2854883,-0.475814 v 0 l 0.303596,-0.08752 1.068958,0.642962 0.547526,-0.161388 v 0 z"
      id="path5"
-     sodipodi:nodetypes="sssssssssccccccccccc" />
+     sodipodi:nodetypes="sssssssssccccccccccccccccccc" />
   <path
      style="opacity:0.35;fill:currentColor"
      class="ColorScheme-Text"

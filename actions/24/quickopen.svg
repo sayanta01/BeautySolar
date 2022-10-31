@@ -20,13 +20,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="34.625"
-     inkscape:cx="11.98556"
-     inkscape:cy="12"
-     inkscape:window-width="1502"
-     inkscape:window-height="1039"
-     inkscape:window-x="208"
-     inkscape:window-y="19"
+     inkscape:zoom="69.25"
+     inkscape:cx="11.99278"
+     inkscape:cy="10.830325"
+     inkscape:window-width="1482"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7" />
   <defs
@@ -40,8 +40,8 @@
   <path
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 6,1 3.2055992,8.4517355 3.5382992,9 V 9 H 6 l -1.6627214,4.988164 0.6056817,0.173649 v 0 L 12.323256,7.6015506 12.070104,7 V 7 H 9 l 3,-6 z"
+     d="M 6,1 3.2055992,8.4517355 3.5382992,9 V 9 H 6 l -1.5857998,4.757399 0.094642,0.279952 v 0 l 0.4341183,0.124462 v 0 L 12.171633,7.7363268 v 0 L 12.240947,7.4059653 12.070104,7 V 7 H 9.2883054 V 7 L 9.1068365,6.7863271 12,1 Z"
      transform="translate(4,4)"
      id="path5"
-     sodipodi:nodetypes="cccccccccccccc" />
+     sodipodi:nodetypes="cccccccccccccccccccc" />
 </svg>

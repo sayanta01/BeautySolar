@@ -1,8 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="labplot-TeX-logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="56.833333"
+     inkscape:cx="11.991202"
+     inkscape:cy="11.982405"
+     inkscape:window-width="1482"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.7890625 3.890625 L 8.9980469 4.5 L 11.263672 7.4453125 L 8.9980469 10.390625 L 9.7890625 11 L 11.894531 8.2636719 L 13.998047 11 L 14.789062 10.390625 L 12.525391 7.4453125 L 14.789062 4.5 L 13.998047 3.890625 L 11.894531 6.6269531 L 9.7890625 3.890625 z M -0.001953125 4 L -0.001953125 5 L 1.9980469 5 L 1.9980469 11 L 2.9980469 11 L 2.9980469 5 L 4.9980469 5 L 4.9980469 4 L -0.001953125 4 z M 3.9980469 6 L 3.9980469 7 L 3.9980469 8.5 L 3.9980469 9.5 L 3.9980469 12 L 3.9980469 13 L 8.9980469 13 L 8.9980469 12 L 4.9980469 12 L 4.9980469 10 L 8.9980469 10 L 8.9980469 9 L 4.9980469 9 L 4.9980469 7 L 8.9980469 7 L 8.9980469 6 L 3.9980469 6 z" transform="translate(4 4)"/>
+  </defs>
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 9.7890625,3.890625 8.9980469,4.5 l 2.1290151,2.7677189 0.01635,0.333931 v 0 L 8.9980469,10.390625 9.7890625,11 11.719486,8.4911652 12.044191,8.4583546 v 0 L 13.998047,11 14.789062,10.390625 12.69895,7.6711344 12.696783,7.222311 v 0 L 14.789062,4.5 13.998047,3.890625 12.024242,6.4582208 v 0 L 11.75653,6.4476033 Z M -0.00195313,4 V 5 H 1.9980469 v 6 h 1 V 5 h 2 V 4 Z M 3.9980469,6 v 1 1.5 1 2.5 1 h 5 v -1 h -4 v -2 h 4 V 9 h -4 V 7 h 4 V 6 Z"
+     transform="translate(4,4)"
+     id="path5"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

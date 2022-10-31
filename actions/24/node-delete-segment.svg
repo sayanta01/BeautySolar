@@ -4,7 +4,7 @@
    height="24"
    version="1.1"
    id="svg9"
-   sodipodi:docname="node-delete-segment.svg"
+   sodipodi:docname="node-break.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -19,13 +19,13 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="34.625"
-     inkscape:cx="11.98556"
-     inkscape:cy="12"
-     inkscape:window-width="1502"
-     inkscape:window-height="1039"
-     inkscape:window-x="208"
-     inkscape:window-y="19"
+     inkscape:zoom="69.25"
+     inkscape:cx="11.99278"
+     inkscape:cy="11.98556"
+     inkscape:window-width="1482"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="g7" />
   <defs
@@ -42,8 +42,8 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 1,0 V 2 H 0.5 C 0,2 0,2.5 0,2.5 0,2.5 0,3 0.5,3 H 1 V 5 H 5 V 3 h 5 v 2 h 4 V 3 h 0.5 C 15,3 15,2.5 15,2.5 15,2.5 15,2 14.5,2 H 14 V 0 H 10 V 2 H 5 V 0 Z M 7,5 V 7 H 6.0443525 L 5.6676852,7.8012223 v 0 l 1.4753706,1.7704446 0.7945157,-0.096753 v 0 L 9.4074677,7.7110388 v 0 L 9.0393639,7 H 8 V 5 Z m -6,6 v 2 H 0.5 C 0,13 0,13.5 0,13.5 0,13.5 0,14 0.5,14 H 1 v 2 h 4 v -5 z m 9,0 v 5 h 4 v -2 h 0.5 C 15,14 15,13.5 15,13.5 15,13.5 15,13 14.5,13 H 14 v -2 z"
+       d="M 5,0 V 2 H 0.5 C 0,2 0,2.5 0,2.5 0,2.5 0,3 0.5,3 H 5 v 2 h 5 V 3 h 4.5 C 15,3 15,2.5 15,2.5 15,2.5 15,2 14.5,2 H 10 V 0 Z M 7,6 V 7 H 6.2560163 V 7 L 5.9540247,7.137664 5.6940995,7.5620788 5.7311124,7.8773349 5.6940995,7.5620788 5.7311124,7.8773349 7.023466,9.4281592 7.9529217,9.456494 v 0 L 9.2646668,7.8823999 v 0 0 L 9.2839345,7.5868082 9.0510072,7.1772386 8.7971826,7 V 7 H 8 V 6 Z m -6,5 v 2 H 0.5 C 0,13 0,13.5 0,13.5 0,13.5 0,14 0.5,14 H 1 v 2 h 4 v -5 z m 9,0 v 5 h 4 v -2 h 0.5 C 15,14 15,13.5 15,13.5 15,13.5 15,13 14.5,13 H 14 v -2 z"
        id="path5"
-       sodipodi:nodetypes="ccscsccccccccscscccccccccccccccccccccccscscccccccccscsccc" />
+       sodipodi:nodetypes="ccscsccccscscccccccccccccccccccccccccccscscccccccccscsccc" />
   </g>
 </svg>
