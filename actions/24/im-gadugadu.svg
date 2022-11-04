@@ -1,8 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="im-gadugadu.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="56.833333"
+     inkscape:cx="12.008798"
+     inkscape:cy="13.354839"
+     inkscape:window-width="1596"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
   </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="m8 0l-1.1152 3.1348c-0.5527 0.1265-1.067 0.3456-1.5332 0.6386l-3.0078-1.4296 1.4296 3.0078c-0.293 0.4662-0.5121 0.9805-0.6386 1.5332l-3.1348 1.1152 3.1348 1.1152c0.1265 0.5527 0.3456 1.0668 0.6386 1.5328l-1.4296 3.008 3.0097-1.431c0.4659 0.292 0.9791 0.514 1.5313 0.64l1.1152 3.135 1.1152-3.135c0.5522-0.126 1.0658-0.348 1.5308-0.64l3.01 1.431-1.431-3.01c0.292-0.465 0.514-0.9786 0.64-1.5308l3.135-1.1152-3.135-1.1152c-0.126-0.5522-0.348-1.0654-0.64-1.5313l1.431-3.0097-3.008 1.4296c-0.466-0.293-0.9801-0.5121-1.5328-0.6386l-1.1152-3.1348zm-2 6a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1zm4 0a1 1 0 0 1 1 1 1 1 0 0 1 -1 1 1 1 0 0 1 -1 -1 1 1 0 0 1 1 -1zm0.498 3.4961a0.50005 0.50005 0 0 1 0.314 0.8949s-1.2948 1.105-2.81 1.109c-1.5104 0.004-2.8086-1.074-2.8086-1.074a0.50005 0.50005 0 1 1 0.6132 -0.7893s1.2034 0.8663 2.1934 0.8633c0.9852-0.002 2.189-0.8906 2.189-0.8906a0.50005 0.50005 0 0 1 0.309 -0.1133z" transform="translate(4 4)"/>
+  </defs>
+  <path
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="M 8.3121202,0.87736231 7.6689948,0.93044748 6.8848,3.1348 C 6.3321,3.2613 5.8178,3.4804 5.3516,3.7734 L 3.2957842,2.7962758 2.7918325,3.2864358 v 0 L 3.7734,5.3516 C 3.4804,5.8178 3.2613,6.3321 3.1348,6.8848 L 1.011934,7.6400061 v 0 l 0.00543,0.72192 L 3.1348,9.1152 c 0.1265,0.5527 0.3456,1.0668 0.6386,1.5328 l -0.9420489,1.982151 0.536367,0.539014 v 0 L 5.3535,12.225 c 0.4659,0.292 0.9791,0.514 1.5313,0.64 l 0.7175605,2.017174 0.5596896,0.05451 v 0 L 8.4355584,14.77558 v 0 L 9.1152,12.865 c 0.5522,-0.126 1.0658,-0.348 1.5308,-0.64 l 2.023936,0.96221 0.26655,-0.07658 v 0 0 L 13.206578,12.710674 12.225,10.646 c 0.292,-0.465 0.514,-0.9786 0.64,-1.5308 l 1.978007,-0.7036281 0.134705,-0.2981708 v 0 0 L 14.91248,7.6131413 12.865,6.8848 C 12.739,6.3326 12.517,5.8194 12.225,5.3535 l 1.034722,-2.1762428 v 0 L 12.79259,2.7541496 10.648,3.7734 C 10.182,3.4804 9.6679,3.2613 9.1152,3.1348 Z M 6,6 C 6.5522847,6 7,6.4477153 7,7 7,7.5522847 6.5522847,8 6,8 5.4477153,8 5,7.5522847 5,7 5,6.4477153 5.4477153,6 6,6 Z m 4,0 c 0.552285,0 1,0.4477153 1,1 0,0.5522847 -0.447715,1 -1,1 C 9.4477153,8 9,7.5522847 9,7 9,6.4477153 9.4477153,6 10,6 Z m 0.498,3.4961 c 0.479882,-0.00695 0.693015,0.600481 0.314,0.8949 0,0 -1.2948,1.105 -2.81,1.109 C 6.4916,11.504 5.1934,10.426 5.1934,10.426 4.6341033,10.021649 5.276529,9.1947308 5.8066,9.6367 5.8066,9.6367 7.01,10.503 8,10.5 8.9852,10.498 10.189,9.6094 10.189,9.6094 10.27627,9.537849 10.385166,9.4979181 10.498,9.4961 Z"
+     id="path5"
+     transform="translate(4,4)"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccsssssssssscccccccc" />
 </svg>

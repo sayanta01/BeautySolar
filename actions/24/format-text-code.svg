@@ -1,10 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="format-text-code.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="40.187235"
+     inkscape:cx="12.0063"
+     inkscape:cy="11.968975"
+     inkscape:window-width="1596"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
   </style>
- </defs>
- <g transform="translate(4,4)">
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.5,0 5.5,15.754 6.5,16 10.5,0.246 Z M 4.2539,3 0,8 4.2539,13 6,12.291 2.3359,8 6,3.709 Z M 11.746,3 10,3.709 13.664,8 10,12.291 11.746,13 16,8 Z"/>
- </g>
+  </defs>
+  <g
+     transform="translate(4,4)"
+     id="g7">
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 9.5,0 -4,15.754 1,0.246 4,-15.754 z M 4.2539,3 0.29383603,7.6546275 0.29119383,8.3422669 v 0 L 4.2539,13 5.6174208,12.446345 v 0 L 5.6978818,11.937191 2.59787,8.3067905 2.59627,7.6950859 v 0 L 5.7723364,3.9756152 5.7152664,3.5933846 v 0 z m 7.4921,0 -1.398767,0.5679987 -0.08517,0.4479034 v 0 l 3.140632,3.6780764 0.0021,0.6095885 v 0 l -3.140637,3.678077 0.125118,0.467428 v 0 L 11.746,13 15.705682,8.3459314 v 0 l -0.04386,-0.7434186 z"
+       id="path5"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+  </g>
 </svg>
