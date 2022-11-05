@@ -21,10 +21,10 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="51.6875"
-     inkscape:cx="7.9903265"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:cx="8.0096735"
+     inkscape:cy="7.9903265"
+     inkscape:window-width="1811"
+     inkscape:window-height="967"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -40,7 +40,7 @@
   <path
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 1,1 V 15 H 15 V 1 Z M 3,3 H 5 V 5 H 7 V 3 h 2 v 2 h 2 V 3 h 2 v 2 h -2 v 2 h 2 v 2 h -2 v 2 h 2 v 2 H 11 V 11 H 9 v 2 H 7 V 11 H 5 v 2 H 3 V 11 H 5 V 9 H 3 V 7 H 5 V 5 H 3 Z m 4,7.616284 v 0 -5.1877218 L 6.7743279,5.3385082 v 0 L 5.115492,7.826762 5.090462,8.135693 v 0 l 1.6628773,2.494316 z m 2,0.03675 0.2207976,0.01577 1.6847884,-2.527183 v 0 L 10.87723,7.8158453 9.2142962,5.3214443 9,5.4159719 v 0 z"
+     d="M 1,1 V 15 H 15 V 1 Z M 3,3 H 5 V 5 H 7 V 3 h 2 v 2 h 2 V 3 h 2 v 2 h -2 v 2 h 2 v 2 h -2 v 2 h 2 v 2 H 11 V 11 H 9 v 2 H 7 V 11 H 5 v 2 H 3 V 11 H 5 V 9 H 3 V 7 H 5 V 5 H 3 Z m 4,7.432426 v 0 0 -4.8949618 0 L 6.6532338,5.5201494 v 0 0 L 5.115492,7.826762 5.090462,8.135693 v 0 l 1.5961264,2.39419 v 0 z m 2,0.09644 0.3426293,-0.04281 v 0 L 10.905586,8.141621 v 0 L 10.87723,7.8158453 9.3613995,5.5420993 v 0 L 9,5.5762758 v 0 0 z"
      id="path931861"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
 </svg>

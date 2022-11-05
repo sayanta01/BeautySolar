@@ -23,16 +23,16 @@
      showgrid="false"
      inkscape:zoom="51.6875"
      inkscape:cx="8.0096735"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
+     inkscape:cy="7.9903265"
+     inkscape:window-width="1811"
+     inkscape:window-height="967"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg800376" />
   <path
      style="fill:#5c616c"
-     d="m 6,1.1879933 v 0 0.7045031 L 5.8787693,2 V 2 H 3.2467243 L 3,2.2434965 v 0 L 3,14 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 2.2474004 L 12.810592,2 V 2 H 10.166925 V 2 L 10,1.8400339 V 1.2153737 L 9.7772611,1 V 1 H 6.2639092 Z m 2,4.4101211 v 0 V 8 h 2.609269 l 0.17136,0.3656179 v 0 L 8.3488758,12.41854 8,12.30371 v 0 V 10 H 5.3050418 v 0 L 5.2084872,9.6525213 7.675599,5.5406683 Z"
+     d="m 6,1.1879933 v 0 0.7045031 L 5.8787693,2 V 2 H 3.2467243 L 3,2.2434965 v 0 V 14 c 0,0.55 0.446,1 1,1 h 8 c 0.554,0 1,-0.45 1,-1 V 2.2474004 L 12.810592,2 V 2 H 10.166925 V 2 L 10,1.8400339 V 1.2153737 L 9.7772611,1 V 1 H 6.2639092 Z m 2,4.6011578 v 0 0 V 8 h 2.609269 l 0.17136,0.3656179 v 0 L 8.4892526,12.184579 v 0 L 8,12.134842 v 0 0 V 10 H 5.3050418 v 0 L 5.2084872,9.6525213 7.5410482,5.7649196 v 0 z"
      id="path800374"
-     sodipodi:nodetypes="ccccccccsssscccccccccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccsssscccccccccccccccccccccccccccccc" />
 </svg>
