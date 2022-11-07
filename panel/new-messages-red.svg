@@ -5,7 +5,7 @@
    version="1.1"
    id="svg9"
    sodipodi:docname="new-messages-red.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,12 +22,14 @@
      inkscape:zoom="31.5"
      inkscape:cx="12.031746"
      inkscape:cy="11.968254"
-     inkscape:window-width="1811"
-     inkscape:window-height="967"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg9" />
+     inkscape:current-layer="svg9"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs3">
     <style
@@ -39,7 +41,7 @@
   <path
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="M 6,6 C 4.892,6 4,6.892 4,8 v 8 c 0,1.108 0.892,2 2,2 h 9.530285 v 0 c -0.503856,0 0.489211,-0.127122 0.07037,-0.350762 C 14.652062,17.142733 14,16.141144 14,15 c 0,-1.645 1.355,-3 3,-3 1.180177,0 2.211088,0.697432 2.699461,1.699023 C 19.891811,14.093509 20,13.192969 20,13.657792 v 0 V 8 C 20,6.892 19.108,6 18,6 Z m 0.4397868,2.2198934 v 0 l 5.2565442,2.6282716 v 0 l 0.692506,-0.04258 5.181942,-2.5909715 v 0 L 18,8.4200895 V 10 l -5.64907,2.824535 v 0 L 11.696444,12.848222 6,10 V 8.4519324 Z"
+     d="M 6,6 C 4.892,6 4,6.892 4,8 v 8 c 0,1.108 0.892,2 2,2 h 9.530285 v 0 c -0.503856,0 0.489211,-0.127122 0.07037,-0.350762 C 14.652062,17.142733 14,16.141144 14,15 c 0,-1.645 1.355,-3 3,-3 1.180177,0 1.871083,0.453255 2.393398,1.437572 0.138728,0.261437 0.404105,0.08826 0.606602,0.22022 v 0 V 8 C 20,6.892 19.108,6 18,6 Z m 0.4397868,2.2198934 v 0 l 5.2565442,2.6282716 v 0 l 0.692506,-0.04258 5.181942,-2.5909715 v 0 L 18,8.4200895 V 10 l -5.64907,2.824535 v 0 L 11.696444,12.848222 6,10 V 8.4519324 Z"
      id="path5"
      sodipodi:nodetypes="ssssccssssccsssccccccccccccccc" />
   <path

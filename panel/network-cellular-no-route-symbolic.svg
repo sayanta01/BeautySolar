@@ -1,5 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <g transform="translate(-152 -596.36)">
-  <path style="fill:#eeeeec" d="m171 601.37-14 14h14v-14zm-3 6c1.1046 0 2 0.89543 2 2s-0.89543 2-2 2v1h-1v-2h1c0.55229 0 1-0.44772 1-1s-0.44771-1-1-1c-0.55228 0-1 0.44772-1 1h-1c0-1.1046 0.89543-2 2-2zm-0.5 5.75a0.75 0.75 0 0 1 0.75 0.75 0.75 0.75 0 0 1 -0.75 0.75 0.75 0.75 0 0 1 -0.75 -0.75 0.75 0.75 0 0 1 0.75 -0.75z"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="network-cellular-no-route.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="33.458333"
+     inkscape:cx="11.985056"
+     inkscape:cy="11.955168"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
+  </style>
+  </defs>
+  <g
+     transform="translate(-152 -596.36)"
+     id="g7">
+    <path
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 171,601.79428 -0.53533,0.11105 -12.7759,12.7759 0.0644,0.40901 0.28393,0.27976 h 12.37397 l 0.36912,-0.17895 L 171,614.71979 v -12.5171 z m -3,5.57572 c 1.1046,0 2,0.89543 2,2 0,1.10457 -0.89543,2 -2,2 v 1 h -1 v -2 h 1 c 0.55229,0 1,-0.44772 1,-1 0,-0.55228 -0.44771,-1 -1,-1 -0.55228,0 -1,0.44772 -1,1 h -1 c 0,-1.1046 0.89543,-2 2,-2 z m -0.5,5.75 c 0.41421,0 0.75,0.33579 0.75,0.75 0,0.41421 -0.33579,0.75 -0.75,0.75 -0.41421,0 -0.75,-0.33579 -0.75,-0.75 0,-0.41421 0.33579,-0.75 0.75,-0.75 z"
+       id="path5"
+       sodipodi:nodetypes="ccccccccccssccccsssccssssss" />
+  </g>
 </svg>

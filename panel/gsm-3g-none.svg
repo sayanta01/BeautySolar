@@ -1,10 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="gsm-3g-none.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="33.458333"
+     inkscape:cx="11.985056"
+     inkscape:cy="11.955168"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">
    .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
   </style>
- </defs>
- <g transform="translate(-128 -596.36)">
-  <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m133 615.37 14-14v14z"/>
- </g>
+  </defs>
+  <g
+     transform="translate(-128 -596.36)"
+     id="g7">
+    <path
+       opacity="0.35"
+       style="fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 133.7477,615.08962 0.0455,-0.51281 12.3227,-12.3227 0.7193,-0.10873 0.16481,0.25084 v 12.31076 l -0.15181,0.39874 -0.55131,0.26428 h -12.22214 z"
+       id="path5"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
 </svg>

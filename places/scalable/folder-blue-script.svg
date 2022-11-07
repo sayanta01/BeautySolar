@@ -5,7 +5,7 @@
    version="1"
    id="svg16"
    sodipodi:docname="folder-blue-script.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,14 +22,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="146.19433"
-     inkscape:cx="15.999253"
-     inkscape:cy="17.090266"
+     inkscape:cx="16.006093"
+     inkscape:cy="18.18128"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <rect
      style="opacity:0.2"
      width="28"
@@ -76,7 +78,7 @@
      id="path12" />
   <path
      style="fill:#1d344f"
-     d="M 10,13 V 25 H 22 V 13 Z m 3,1 h 1 v 1 h 0.5 c 0.607817,0 1.128329,0.367256 1.365039,0.889172 0.01643,0.03622 -0.09024,0.07319 -0.07661,0.110828 v 0 H 14.5 14.105 L 14,16.08818 v 0 0.830546 L 14.071566,17 v 0 H 14.5 c 0.83,0 1.5,0.67 1.5,1.5 0,0.83 -0.67,1.5 -1.5,1.5 H 14 v 1 h -1 v -1 h -0.5 c -0.614788,0 -1.140256,-0.375728 -1.373071,-0.90719 -0.01333,-0.03044 0.01138,0.03142 0,0 L 11.206883,19 H 12.5 12.865896 L 13,18.908192 v 0 -0.82851 0 L 12.924442,18 H 12.5 C 11.67,18 11,17.33 11,16.5 11,15.67 11.67,15 12.5,15 H 13 Z m -0.5,2 c -0.28,0 -0.5,0.22 -0.5,0.5 0,0.28 0.22,0.5 0.5,0.5 h 0.40395 v 0 L 13,16.900167 13,16.104094 v 0 L 12.906341,16 Z m 1.5,2.075319 v 0 0.809174 L 14.101567,19 v 0 H 14.5 C 14.78,19.01 15,18.78 15,18.5 15,18.22 14.78,18 14.5,18 H 14.10529 Z M 17,20 h 4 v 1 h -4 z"
+     d="M 10,13 V 25 H 22 V 13 Z m 3,1 h 1 v 1 h 0.5 c 0.607817,0 1.066234,0.283832 1.302944,0.805748 0.01643,0.03622 -0.02815,0.156614 -0.01451,0.194252 v 0 H 14.5 14.105 L 14,16.08818 v 0 0.830546 L 14.071566,17 v 0 H 14.5 c 0.83,0 1.5,0.67 1.5,1.5 0,0.83 -0.67,1.5 -1.5,1.5 H 14 v 1 h -1 v -1 h -0.5 c -0.614788,0 -1.140256,-0.375728 -1.373071,-0.90719 -0.01333,-0.03044 0.108382,0.184225 0.06275,0.105095 L 11.206883,19 H 12.5 12.865896 L 13,18.908192 v 0 -0.82851 0 L 12.924442,18 H 12.5 C 11.67,18 11,17.33 11,16.5 11,15.67 11.67,15 12.5,15 H 13 Z m -0.5,2 c -0.28,0 -0.5,0.22 -0.5,0.5 0,0.28 0.22,0.5 0.5,0.5 h 0.40395 v 0 L 13,16.900167 v -0.796073 0 L 12.906341,16 Z m 1.5,2.075319 v 0 0.809174 L 14.101567,19 v 0 H 14.5 C 14.78,19.01 15,18.78 15,18.5 15,18.22 14.78,18 14.5,18 H 14.10529 Z M 17,20 h 4 v 1 h -4 z"
      id="path14"
      sodipodi:nodetypes="ccccccccsscccccccccsssccccsscccccccccsssccsssccccccsccccccssccccccc" />
 </svg>
