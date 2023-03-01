@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Papirus Flat Mix
-Comment=Parius Flat Mix dark interface
+Comment=parius-flat-mix dark interface
 Inherits=breeze-dark,elementary,gnome,hicolor
 
 Example=folder
