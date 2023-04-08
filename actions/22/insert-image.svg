@@ -1,49 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="22"
-   height="22"
+   width="22px"
+   height="22px"
+   viewBox="0 0 22 22"
    version="1.1"
-   id="svg9"
+   id="svg8"
    sodipodi:docname="insert-image.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
   <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:pageshadow="0"
+     id="namedview10"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="31"
-     inkscape:cx="10.983871"
-     inkscape:cy="10.967742"
+     inkscape:zoom="73"
+     inkscape:cx="11"
+     inkscape:cy="14.246575"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
-  <defs
-     id="defs3">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
-  </style>
-  </defs>
+     inkscape:current-layer="surface1" />
   <g
-     transform="translate(3,3)"
-     id="g7">
+     id="surface1">
+    <defs
+       id="defs3">
+      <style
+         id="current-color-scheme"
+         type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
+  </style>
+    </defs>
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 3,0 C 2,0 2,1 2,1 v 8 c 0,1 1,1 1,1 h 10 c 0,0 1,0 1,-1 V 1 C 14,0 13,0 13,0 Z m 3.4382103,3.9382103 v 0 l 2.1480846,2.1480846 0.7858665,0.041544 v 0 l 0.7308236,-0.7308231 0.705913,-0.088117 v 0 L 12,6.5 V 8 H 4 V 5.5 L 5.5668556,3.9331444 Z M 5,12 h 6 v 0 z"
+       d="M 5.5,2.75 C 3.976562,2.75 2.75,3.976562 2.75,5.5 v 11 c 0,1.523438 1.226562,2.75 2.75,2.75 H 11 V 17.875 H 5.5 c -0.179688,0 -0.022236,-0.275924 -0.1823934,-0.338424 L 5.3919456,17.100664 7.8652673,12.97846 8.28125,12.805851 8.7062724,12.923326 10.890625,16.203125 11,16.097656 V 13.882812 L 8.6603212,10.37658 8.2578894,10.13617 7.8371645,10.350455 4.6555075,15.650178 4.128906,16.527344 C 4.8486777,16.351241 4.9228843,15.485909 4.9150746,15.485726 L 4.125,15.467243 V 5.5 C 4.125,4.738281 4.738281,4.125 5.5,4.125 h 11 c 0.761719,0 1.375,0.613281 1.375,1.375 V 11 H 19.25 V 5.5 c 0,-1.523438 -1.226562,-2.75 -2.75,-2.75 z m 8.25,2.75 c -0.761719,0 -1.375,0.613281 -1.375,1.375 0,0.761719 0.613281,1.375 1.375,1.375 0.761719,0 1.375,-0.613281 1.375,-1.375 C 15.125,6.113281 14.511719,5.5 13.75,5.5 Z m 1.375,6.875 v 2.75 h -2.75 V 16.5 h 2.75 v 2.75 H 16.5 V 16.5 h 2.75 V 15.125 H 16.5 v -2.75 z"
        id="path5"
-       sodipodi:nodetypes="scsccsscscccccccccccccccccc" />
+       sodipodi:nodetypes="ssssccscccccccccccccscssssccssssssssccccccccccccc" />
   </g>
 </svg>

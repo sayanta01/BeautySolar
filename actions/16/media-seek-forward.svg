@@ -1,45 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg19669"
-   sodipodi:docname="media-forward.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview19671"
-     pagecolor="#000000"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="51.6875"
-     inkscape:cx="7.9903265"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg19669" />
-  <defs
-     id="defs19665">
-    <style
-       id="current-color-scheme"
-       type="text/css">
-   .ColorScheme-Text { color:#eeeeec; } .ColorScheme-Highlight { color:#367bf0; } .ColorScheme-NeutralText { color:#ffcc44; } .ColorScheme-PositiveText { color:#3db47e; } .ColorScheme-NegativeText { color:#dd4747; }
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px" viewBox="0 0 16 16" version="1.1">
+<g id="surface1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#eeeeee; } .ColorScheme-Highlight { color:#424242; }
   </style>
-  </defs>
-  <path
-     style="fill:currentColor"
-     class="ColorScheme-Text"
-     d="M 8.3401671,4.1943812 8,4.4951497 v 7.0542593 0 l 0.4462029,0.195618 6.1461501,-3.5120857 v 0 L 14.560206,7.7486891 Z M 1,4.4064047 v 0 7.0468813 0 L 1.4788881,11.72635 7.5670034,8.2474266 7.5414334,7.7379619 v 0 L 1.3672336,4.2098478 Z"
-     id="path19667"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+ </defs>
+<path style="fill:currentColor" class="ColorScheme-Text" d="M 2.507812 4 C 2.226562 3.996094 2 4.222656 2 4.5 L 2 11.5 C 2 11.90625 2.457031 12.144531 2.789062 11.910156 L 7.789062 8.410156 C 7.925781 8.3125 7.996094 8.160156 8 8.007812 L 8 11.5 C 8 11.90625 8.457031 12.144531 8.789062 11.910156 L 13.785156 8.410156 C 14.074219 8.210938 14.074219 7.789062 13.785156 7.589844 L 8.789062 4.089844 C 8.703125 4.03125 8.605469 4 8.507812 4 C 8.226562 3.996094 8 4.222656 8 4.5 L 8 7.992188 C 7.996094 7.839844 7.925781 7.6875 7.789062 7.589844 L 2.789062 4.089844 C 2.703125 4.03125 2.605469 4 2.507812 4 Z M 2.507812 4 "/>
+</g>
 </svg>

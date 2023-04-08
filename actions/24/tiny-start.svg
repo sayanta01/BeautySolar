@@ -4,30 +4,32 @@
    height="24"
    version="1.1"
    id="svg9"
-   sodipodi:docname="player_play.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="player_start.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview11"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="34.458333"
      inkscape:cx="11.956469"
-     inkscape:cy="16.643289"
-     inkscape:window-width="954"
-     inkscape:window-height="519"
-     inkscape:window-x="961"
-     inkscape:window-y="556"
+     inkscape:cy="16.628779"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="g7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3">
     <style
@@ -42,7 +44,7 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 4.0910341,2.5951095 3,3.0951469 v 9.9012241 l 0.9334888,0.494453 v 0 L 13.165343,8.4552672 v 0 l 0.0013,-0.909845 z"
+       d="M 4.0910341,2.5951095 3,3.0951469 v 9.9012241 l 0.4153939,0.404193 0.5180949,0.09026 v 0 L 13.165343,8.4552672 v 0 l 0.0013,-0.909845 z"
        id="path5"
        sodipodi:nodetypes="cccccccccc" />
   </g>

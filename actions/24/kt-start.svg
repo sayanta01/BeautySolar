@@ -4,15 +4,15 @@
    height="24"
    version="1.1"
    id="svg9"
-   sodipodi:docname="kt-start.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="currenttrack_play.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview11"
-     pagecolor="#343434"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -20,14 +20,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="34.458333"
-     inkscape:cx="12.029021"
-     inkscape:cy="11.956469"
-     inkscape:window-width="1482"
-     inkscape:window-height="967"
+     inkscape:cx="12.01451"
+     inkscape:cy="11.98549"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="g7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3">
     <style
@@ -42,8 +44,8 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="m 3,2.9716954 v 0 0 9.9825126 0 0 l 0.9478561,0.52878 v 0 L 13.123552,8.4780625 v 0 l 0.0178,-0.9464172 -0.0178,0.9464172 0.0178,-0.9464172 v 0 L 3.9267226,2.5054851 v 0 z"
+       d="m 3,2.6664454 v 0.1389034 10.7417542 0 l 0.7487429,0.416894 9.7605411,-5.2722842 0.05421,-0.9298075 -0.02042,0.1239502 0.02042,-0.2938012 -9.7538905,-5.4303392 z"
        id="path5"
-       sodipodi:nodetypes="ccccccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
   </g>
 </svg>
