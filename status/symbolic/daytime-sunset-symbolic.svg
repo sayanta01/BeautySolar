@@ -5,7 +5,7 @@
    version="1.1"
    id="svg19135"
    sodipodi:docname="daytime-sunset-symbolic.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,18 +21,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="51.6875"
-     inkscape:cx="8.0096735"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="103.375"
+     inkscape:cx="10.176542"
+     inkscape:cy="2.6021765"
+     inkscape:window-width="1554"
+     inkscape:window-height="994"
+     inkscape:window-x="182"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg19135" />
+     inkscape:current-layer="svg19135"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      style="fill:#5c616c"
-     d="m 7.8878326,0.23090774 v 0 L 7.5,1.0293 C 7.67,1.0193 7.83,1 8,1 8.17,1 8.33,1.0193 8.5,1.0293 L 8.1209821,0.24905372 Z M 8,2 C 4.69,2 2,4.68 2,8 H 14 C 14,4.68 11.31,2 8,2 Z M 2.4230889,2.5781211 v 0 L 2.7207,3.4297 c 0.22,-0.25 0.4688,-0.4988 0.7188,-0.7188 L 2.6630218,2.448873 Z M 13.4191,2.4211447 v 0 L 12.561,2.7109 c 0.25,0.22 0.498,0.4688 0.718,0.7188 L 13.577872,2.5747367 Z M 1.0293,7.5 0.39408688,7.8085656 0.41528586,8 V 8 H 1 C 1,7.83 1.0193,7.66 1.0293,7.5 Z m 13.9417,0 C 14.981,7.66 15,7.83 15,8 h 0.632753 v 0 l 0.0071,-0.1749782 z"
+     d="M 7.8878326,0.23090774 8.1224337,0.26960181 8.5277759,1.0622044 C 8.6977759,1.0522044 7.83,1 8,1 8.17,1 8.33,1.0193 8.5,1.0293 L 8.1209821,0.24905372 Z M 8,2 C 4.69,2 2,4.68 2,8 H 14 C 14,4.68 11.31,2 8,2 Z M 2.4230889,2.5781211 v 0 L 2.7207,3.4297 c 0.22,-0.25 -0.2922976,0.1458679 -0.042298,-0.074132 L 2.455832,2.5869722 Z M 13.4191,2.4211447 v 0 L 12.561,2.7109 c 0.25,0.22 -0.24449,-0.2299216 -0.02449,0.020078 L 13.433247,2.3964473 Z M 0.98468751,7.9610284 0.37763824,8.0045406 0.41528586,8 V 8 H 1 C 1,7.83 0.97468751,8.1210284 0.98468751,7.9610284 Z M 15.009694,7.9701121 C 15.019694,8.1301121 15,7.83 15,8 h 0.632753 v 0 l 0.0071,0.018711 z"
      id="path19129"
      sodipodi:nodetypes="cccscccsccscccccccccccccccccccccccc" />
   <path

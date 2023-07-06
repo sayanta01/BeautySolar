@@ -5,7 +5,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   sodipodi:docname="media-playback-start (copy).svg"
+   sodipodi:docname="vmware-replay-beginning.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="50.1875"
-     inkscape:cx="7.9900374"
+     inkscape:cx="8.0099626"
      inkscape:cy="7.9501868"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-width="1554"
+     inkscape:window-height="994"
+     inkscape:window-x="182"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="surface1" />
   <g
      id="surface1"
      transform="rotate(180,8.0151368,7.9997306)">
@@ -46,7 +46,8 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 3.492188,2 C 3.226562,2.011719 3.015625,2.234375 3.015625,2.5 v 11 c 0.00391,0.390625 0.429687,0.628906 0.761719,0.425781 l 9,-5.5 c 0.316406,-0.195312 0.316406,-0.65625 0,-0.851562 l -9,-5.5 C 3.691406,2.019531 3.59375,1.996094 3.492188,2 Z m 0,0"
-       id="path5" />
+       d="M 3.7259257,2.1472128 C 3.4602997,2.1589318 2.9158905,2.3686004 2.9176501,2.6342196 L 2.988291,13.297377 c 0.00391,0.390625 0.7605045,0.741116 1.0925365,0.537991 L 12.737997,8.7084916 c 0.316406,-0.195312 0.261725,-1.1941207 -0.05468,-1.3894327 L 4.0550477,2.2294705 c -0.085938,-0.054688 -0.22756,-0.086164 -0.329122,-0.082258 z"
+       id="path5"
+       sodipodi:nodetypes="cscccccc" />
   </g>
 </svg>

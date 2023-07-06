@@ -4,8 +4,8 @@
    height="16"
    version="1.1"
    id="svg57456"
-   sodipodi:docname="gnome-stock-mail-snd.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="stock_mail-send.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,15 +19,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="51.6875"
-     inkscape:cx="7.9903265"
-     inkscape:cy="8"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="73.097163"
+     inkscape:cx="6.1425093"
+     inkscape:cy="9.0837999"
+     inkscape:window-width="1554"
+     inkscape:window-height="994"
+     inkscape:window-x="182"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg57456" />
+     inkscape:current-layer="svg57456"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs57452">
     <style
@@ -39,7 +41,7 @@
   <path
      style="fill:currentColor"
      class="ColorScheme-Text"
-     d="m 1,1.3870396 v 0 5.3081442 0 l 0.3989569,0.3491447 7.9652654,0.8850295 0.033821,0.1375261 v 0 L 1.3590952,8.9601005 1,9.3708694 v 0 5.1847366 l 0.3759305,0.256429 v 0 L 14.621787,8.1891067 14.562503,7.7812514 v 0 L 1.3242744,1.1621372 Z"
+     d="M 0.96829472,1.532493 1,1.5595282 v 5.1356556 0 l 0.2039178,0.1784574 0.1818647,0.1287852 0.2690467,0.070332 7.6422385,0.8389417 0.052164,0.1897925 -0.042399,0.0034 L 1.6568533,8.9280606 1.4710786,8.9854077 1.2159759,9.1238147 1,9.3708694 v 0 5.0057686 l 0.2365819,0.267763 0.3702541,0.08009 0.019327,0.02167 12.359835,-6.145933 0.22781,-0.2564499 0.08244,-0.4086305 L 14.180087,7.472713 13.941193,7.2236456 1.568584,1.2425992 1.1798759,1.2881801 Z"
      id="path57454"
-     sodipodi:nodetypes="ccccccccccccccccccc" />
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
 </svg>

@@ -5,7 +5,7 @@
    version="1.1"
    id="svg9"
    sodipodi:docname="blueman-send-file.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -19,15 +19,17 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="34.272727"
-     inkscape:cx="10.985411"
-     inkscape:cy="11"
-     inkscape:window-width="1770"
-     inkscape:window-height="966"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="96.937911"
+     inkscape:cx="16.33004"
+     inkscape:cy="10.202407"
+     inkscape:window-width="1554"
+     inkscape:window-height="994"
+     inkscape:window-x="182"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="g7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs3">
     <style
@@ -42,8 +44,8 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 1.4598295,1.2299147 1,1.5878846 v 0 5.1058319 L 1.1757288,7 l 0.1178929,0.032625 7.4066756,0.822964 0.040163,0.2843603 v 0 L 1.2410097,8.9732211 1,9.2904872 v 0 5.0473568 0 L 1.5944694,14.702765 14.537126,8.2314372 14.416075,8 14.484157,7.7420785 Z"
+       d="M 1.591641,1.2216341 1.423718,1.2826669 1.120313,1.5012193 1.0230011,1.661747 0.97814801,1.860725 1,6.6937165 1.1757288,7 1.2936217,7.032625 8.7002973,7.855589 8.7404603,8.1399493 v 0 L 1.2410097,8.9732211 1,9.2904872 v 0 4.8661068 l 0.045847,0.137073 0.00792,0.03293 0.095429,0.109156 0.3617453,0.237399 0.1945297,0.02876 0.1631513,-0.01242 12.4518067,-6.1796617 0.16289,-0.3484529 0.0051,-0.328045 0.0065,-0.1748408 L 14.316619,7.3113293 1.7861601,1.2408503 Z"
        id="path5"
-       sodipodi:nodetypes="cccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>

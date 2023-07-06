@@ -4,8 +4,8 @@
    height="22"
    version="1.1"
    id="svg9"
-   sodipodi:docname="mail-sent.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="blueman-send-file.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -13,22 +13,23 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#000000"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="38.409091"
-     inkscape:cx="11.013018"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:zoom="96.937911"
+     inkscape:cx="16.33004"
+     inkscape:cy="10.202407"
+     inkscape:window-width="1554"
+     inkscape:window-height="994"
+     inkscape:window-x="182"
+     inkscape:window-y="42"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:current-layer="g7"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#000000" />
   <defs
      id="defs3">
     <style
@@ -43,8 +44,8 @@
     <path
        style="fill:currentColor"
        class="ColorScheme-Text"
-       d="M 1.3509088,1.5481161 1,1.7546694 V 7 L 8.6317805,7.8479756 8.8053877,8.0190626 8.6500032,8.1499996 1,9 v 5.052727 l 0.4591777,0.293589 0.410627,0.218782 L 14.270556,8.3647219 14.401145,8 14.207419,7.6037097 1.7666133,1.3833067 Z"
+       d="M 1.591641,1.2216341 1.423718,1.2826669 1.120313,1.5012193 1.0230011,1.661747 0.97814801,1.860725 1,6.6937165 1.1757288,7 1.2936217,7.032625 8.7002973,7.855589 8.7404603,8.1399493 v 0 L 1.2410097,8.9732211 1,9.2904872 v 0 4.8661068 l 0.045847,0.137073 0.00792,0.03293 0.095429,0.109156 0.3617453,0.237399 0.1945297,0.02876 0.1631513,-0.01242 12.4518067,-6.1796617 0.16289,-0.3484529 0.0051,-0.328045 0.0065,-0.1748408 L 14.316619,7.3113293 1.7861601,1.2408503 Z"
        id="path5"
-       sodipodi:nodetypes="ccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
