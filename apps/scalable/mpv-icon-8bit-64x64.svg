@@ -4,7 +4,7 @@
    viewBox="0 0 512 512"
    id="svg45"
    sodipodi:docname="mpv.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -20,8 +20,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.5683594"
-     inkscape:cx="255.6812"
-     inkscape:cy="255.04359"
+     inkscape:cx="256.6376"
+     inkscape:cy="255.04358"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
      inkscape:window-x="0"
@@ -133,7 +133,7 @@
      stroke-width="8.0357"
      id="circle37" />
   <path
-     d="m 303.59389,256 -4.64076,7.81531 -56.47879,32.2734 -9.15567,0.22453 -5.06367,-8.12512 v -66.27035 l 6.96552,-6.74934 6.28608,0.18878 28.9364,16.53479 27.45121,15.68715 z"
+     d="m 295.49127,256.69322 -0.25467,10.26561 -52.76226,29.12988 -7.97389,-2.95005 -6.24545,-4.95054 v -66.27035 l 7.25175,-3.81349 5.99985,-2.74707 28.9364,16.53479 24.17591,14.17832 z"
      fill="#7e3c9a"
      stroke-width="12.116"
      id="path39"
