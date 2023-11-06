@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=BeautySolar
-Comment=BeautySolar Dark !nterface
+Comment=BeautySolar Dark Interface
 Inherits=breeze,Adwaita,ubuntu-mono,yaru,Mint-X,elementary,bloom
 
 # Directory list
