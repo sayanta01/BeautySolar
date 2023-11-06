@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="wxcas.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="37.653436"
+     inkscape:cx="44.537768"
+     inkscape:cy="25.655029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     opacity="0.4"
+     d="M87.1336 31.9712C67.7736 31.9712 51.9336 47.8112 51.9336 67.1712C51.9336 86.5312 67.7736 102.371 87.1336 102.371C106.494 102.371 122.334 86.5312 122.334 67.1712C122.334 47.8112 106.494 31.9712 87.1336 31.9712Z"
+     fill="url(#paint0_linear_216_284)"
+     id="path1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 54.222821,18.081519 67.3191,59.9341 c 0.2712,0.8184 1.0363,1.3709 1.8985,1.3709 h 6.5983 c 0.714,0 1.3631,-0.3887 1.7795,-0.9687 2.1292,-2.9661 5.6079,-4.8983 9.5379,-4.8983 6.4803,0 11.7334,5.2531 11.7334,11.7334 0,6.48 -5.2531,11.7333 -11.7334,11.7333 -3.9298,0 -7.4083,-1.9319 -9.5377,-4.8978 -0.4163,-0.5799 -1.0654,-0.9686 -1.7793,-0.9686 H 60.9951 c -0.8577,0 -1.62,-0.5469 -1.8947,-1.3595 L 54.6253,58.4397 c -0.6328,-1.872 -3.3081,-1.79 -3.8251,0.1173 l -13.627846,50.61947 c -0.3342,1.233 -4.331304,1.09798 -4.811004,-0.085 L 18.9996,74.2866 c -0.306,-0.7546 -1.039,-1.2483 -1.8533,-1.2483 H 6.33333 C 5.59696,73.0383 5,72.4412 5,71.705 V 62.6383 C 5,61.902 5.59696,61.305 6.33333,61.305 H 25.3348 c 0.8267,0 1.5682,0.5086 1.8659,1.2798 l 3.7719,9.7728 c 0.6948,1.8001 3.2841,1.6698 3.7946,-0.191 L 48.477037,18.1564 c 0.349,-1.2724 5.330884,-1.327281 5.745784,-0.07488 z"
+     fill="url(#paint1_linear_216_284)"
+     id="path2"
+     sodipodi:nodetypes="ccsscssscssccccccsssssscccccc" />
+  <defs
+     id="defs5">
+    <linearGradient
+       id="paint0_linear_216_284"
+       x1="87.1338"
+       y1="102.371"
+       x2="87.1338"
+       y2="31.9712"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00B59C"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#9CFFAC"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_216_284"
+       x1="51.9333"
+       y1="112.15"
+       x2="51.9333"
+       y2="15"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00B59C"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#9CFFAC"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 54.222821,18.081519 67.3191,59.9341 c 0.2712,0.8184 1.0363,1.3709 1.8985,1.3709 h 6.5983 c 0.714,0 1.3631,-0.3887 1.7795,-0.9687 2.1292,-2.9661 5.6079,-4.8983 9.5379,-4.8983 6.4803,0 11.7334,5.2531 11.7334,11.7334 0,6.48 -5.2531,11.7333 -11.7334,11.7333 -3.9298,0 -7.4083,-1.9319 -9.5377,-4.8978 -0.4163,-0.5799 -1.0654,-0.9686 -1.7793,-0.9686 H 60.9951 c -0.8577,0 -1.62,-0.5469 -1.8947,-1.3595 L 54.6253,58.4397 c -0.6328,-1.872 -3.3081,-1.79 -3.8251,0.1173 l -13.627846,50.61947 c -0.3342,1.233 -4.331304,1.09798 -4.811004,-0.085 L 18.9996,74.2866 c -0.306,-0.7546 -1.039,-1.2483 -1.8533,-1.2483 H 6.33333 C 5.59696,73.0383 5,72.4412 5,71.705 V 62.6383 C 5,61.902 5.59696,61.305 6.33333,61.305 H 25.3348 c 0.8267,0 1.5682,0.5086 1.8659,1.2798 l 3.7719,9.7728 c 0.6948,1.8001 3.2841,1.6698 3.7946,-0.191 L 48.477037,18.1564 c 1.542636,-1.170809 4.313668,-1.189681 5.512563,-0.395835 0.123595,0.08184 0.193897,0.202252 0.233221,0.320955 z"
+     fill="url(#paint1_linear_216_284)"
+     id="path5"
+     sodipodi:nodetypes="ccsscssscssccccccssssssccccscc" />
+</svg>

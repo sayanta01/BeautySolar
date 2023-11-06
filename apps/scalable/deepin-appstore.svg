@@ -1,57 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="32"
-   height="32"
-   version="1"
-   id="svg7336"
-   sodipodi:docname="yast-software.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs7340" />
-  <sodipodi:namedview
-     id="namedview7338"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="25.84375"
-     inkscape:cx="15.980653"
-     inkscape:cy="16"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg7336" />
-  <path
-     fill="#e4e4e4"
-     d="m12 3-2 2v3h-8v18.5c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-18.5h-8v-3l-2-2zm0 2h8v3h-8z"
-     id="path7326" />
-  <path
-     opacity=".2"
-     d="m12 5v1h8v-1h-8zm-10 21.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"
-     id="path7328" />
-  <circle
-     fill="#4ab3e4"
-     cx="24.5"
-     cy="23.5"
-     r="7.5"
-     id="circle7330" />
-  <path
-     fill="#ffffff"
-     d="M 26,18.96 V 23 l 0.794315,-0.02118 v 0 l 0.220713,0.634278 -2.105497,2.835402 v 0 l -0.825728,-0.009 -2.142379,-2.88507 v 0 L 22.110934,22.96 H 23 v -4 z m -4.605336,8.0402 v 0 h 6.19278 v 0 L 28,27.340009 v 0.280102 L 27.718863,28.0002 v 0 H 21.318461 L 21,27.682139 v 0 -0.300914 z"
-     id="path7332"
-     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
-  <path
-     fill-rule="evenodd"
-     opacity=".2"
-     d="m31.979 23.947a7.5 7.5 0 0 1 -7.479 7.053 7.5 7.5 0 0 1 -7.479 -6.947 7.5 7.5 0 0 0 -0.021 0.447 7.5 7.5 0 0 0 7.5 7.5 7.5 7.5 0 0 0 7.5 -7.5 7.5 7.5 0 0 0 -0.021 -0.553z"
-     id="path7334" />
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.5" d="M1 12C1 6.8146 1 4.2219 2.6104 2.6104C4.223 1 6.8146 1 12 1C17.1854 1 19.7781 1 21.3885 2.6104C23 4.223 23 6.8146 23 12C23 17.1854 23 19.7781 21.3885 21.3885C19.7792 23 17.1854 23 12 23C6.8146 23 4.2219 23 2.6104 21.3885C1 19.7792 1 17.1854 1 12Z" fill="url(#paint0_linear_8_855)"/>
+<path d="M6.77502 17.5C6.77502 17.2812 6.86194 17.0713 7.01666 16.9166C7.17138 16.7619 7.38122 16.675 7.60002 16.675H16.4C16.6188 16.675 16.8287 16.7619 16.9834 16.9166C17.1381 17.0713 17.225 17.2812 17.225 17.5C17.225 17.7188 17.1381 17.9286 16.9834 18.0834C16.8287 18.2381 16.6188 18.325 16.4 18.325H7.60002C7.38122 18.325 7.17138 18.2381 7.01666 18.0834C6.86194 17.9286 6.77502 17.7188 6.77502 17.5ZM8.42502 6.49999C8.42502 6.28118 8.3381 6.07134 8.18339 5.91662C8.02867 5.76191 7.81883 5.67499 7.60002 5.67499C7.38122 5.67499 7.17138 5.76191 7.01666 5.91662C6.86194 6.07134 6.77502 6.28118 6.77502 6.49999V9.79999C6.77502 11.1857 7.32551 12.5147 8.30539 13.4946C9.28527 14.4745 10.6143 15.025 12 15.025C13.3858 15.025 14.7148 14.4745 15.6947 13.4946C16.6745 12.5147 17.225 11.1857 17.225 9.79999V6.49999C17.225 6.28118 17.1381 6.07134 16.9834 5.91662C16.8287 5.76191 16.6188 5.67499 16.4 5.67499C16.1812 5.67499 15.9714 5.76191 15.8167 5.91662C15.6619 6.07134 15.575 6.28118 15.575 6.49999V9.79999C15.575 10.7481 15.1984 11.6575 14.5279 12.3279C13.8575 12.9983 12.9482 13.375 12 13.375C11.0519 13.375 10.1426 12.9983 9.47212 12.3279C8.80168 11.6575 8.42502 10.7481 8.42502 9.79999V6.49999Z" fill="url(#paint1_linear_8_855)"/>
+<defs>
+<linearGradient id="paint0_linear_8_855" x1="0.682006" y1="1.21648" x2="23.3621" y2="24.5905" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9D423"/>
+<stop offset="0.515624" stop-color="#FF4E50"/>
+<stop offset="0.991304" stop-color="#8A2387"/>
+</linearGradient>
+<linearGradient id="paint1_linear_8_855" x1="6.62398" y1="5.79946" x2="19.5038" y2="16.7649" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F9D423"/>
+<stop offset="0.515624" stop-color="#FF4E50"/>
+<stop offset="0.991304" stop-color="#8A2387"/>
+</linearGradient>
+</defs>
 </svg>

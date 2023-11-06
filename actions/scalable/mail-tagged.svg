@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="mail-tagged.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.770833"
+     inkscape:cx="0.17888199"
+     inkscape:cy="10.404969"
+     inkscape:window-width="1550"
+     inkscape:window-height="1005"
+     inkscape:window-x="184"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <path
+     d="M16.234 9.46405L14.697 10.744C13.671 11.6 12.959 12.191 12.357 12.578C11.775 12.953 11.38 13.078 11 13.078C10.62 13.078 10.226 12.953 9.64299 12.578C9.04199 12.192 8.32899 11.6 7.30299 10.744L4.92799 8.76505C4.75985 8.62501 4.54296 8.55751 4.32504 8.57739C4.10712 8.59727 3.90603 8.7029 3.76599 8.87105C3.62596 9.03919 3.55846 9.25608 3.57833 9.474C3.59821 9.69192 3.70385 9.89301 3.87199 10.033L6.28799 12.047C7.26299 12.859 8.05299 13.517 8.75099 13.967C9.47699 14.433 10.185 14.729 11.001 14.729C11.815 14.729 12.523 14.433 13.249 13.966C13.947 13.518 14.737 12.859 15.712 12.046L17.378 10.658C16.9265 10.3337 16.5387 9.92895 16.234 9.46405Z"
+     fill="url(#paint0_linear_8_530)"
+     id="path1" />
+  <path
+     opacity="0.5"
+     d="M 15.338112,5.4452914 C 14.987673,4.9615738 14.244,5 13.2,5 H 8.8 C 4.652,5 2.577,5 1.289,6.318 0,7.636 0,9.758 0,14 0,18.243 0,20.364 1.289,21.682 2.577,23 4.652,23 8.8,23 h 4.4 c 4.148,0 6.223,0 7.511,-1.318 C 22,20.364 22,18.242 22,14 22,12.933 22.053317,12.018735 21.627321,11.798507 21.203014,11.579151 20.6875,11.6488 20,11.648 c -2.485,0 -4.5,-2.06 -4.5,-4.603 0,-0.726 0.09327,-1.2475096 -0.161888,-1.5997086 z"
+     fill="url(#paint1_linear_8_530)"
+     id="path2"
+     sodipodi:nodetypes="ssscscsscsscss" />
+  <path
+     d="m 18.4062,2 h 3.5156 c 0.3729,0 0.7306,0.14815 0.9942,0.41187 0.2638,0.26371 0.4119,0.62139 0.4119,0.99433 v 5.64492 c 0,0.17875 -0.0506,0.35383 -0.1457,0.50513 C 23.087,9.70755 22.951,9.8289 22.7899,9.90632 22.6289,9.98375 22.4491,10.0141 22.2715,9.99392 22.094,9.97373 21.9257,9.90381 21.786,9.79219 c 0,0 -1.117562,-0.9889719 -1.581532,-0.9930479 C 19.777299,8.7953894 18.5419,9.79219 18.5419,9.79219 18.4023,9.90381 18.234,9.97373 18.0564,9.99392 17.8788,10.0141 17.6991,9.98375 17.538,9.90632 17.3769,9.8289 17.2409,9.70755 17.1458,9.55625 17.0506,9.40495 17.0001,9.22987 17,9.05112 V 3.4062 C 17,3.03326 17.1481,2.67558 17.4119,2.41187 17.6756,2.14815 18.0333,2 18.4062,2 Z"
+     fill="url(#paint2_linear_8_530)"
+     id="path3"
+     sodipodi:nodetypes="sscssccccscccccscs" />
+  <defs
+     id="defs11">
+    <linearGradient
+       id="paint0_linear_8_530"
+       x1="3.37541"
+       y1="8.63454"
+       x2="8.00266"
+       y2="19.3289"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F9D423"
+         id="stop3" />
+      <stop
+         offset="0.515624"
+         stop-color="#FF4E50"
+         id="stop4" />
+      <stop
+         offset="0.991304"
+         stop-color="#8A2387"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_8_530"
+       x1="-0.317994"
+       y1="5.17712"
+       x2="17.7631"
+       y2="27.9524"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F9D423"
+         id="stop6" />
+      <stop
+         offset="0.515624"
+         stop-color="#FF4E50"
+         id="stop7" />
+      <stop
+         offset="0.991304"
+         stop-color="#8A2387"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="paint2_linear_8_530"
+       x1="6.20953"
+       y1="1.02319"
+       x2="23.6058"
+       y2="18.9516"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#F9D423"
+         id="stop9" />
+      <stop
+         offset="0.515624"
+         stop-color="#FF4E50"
+         id="stop10" />
+      <stop
+         offset="0.991304"
+         stop-color="#8A2387"
+         id="stop11" />
+    </linearGradient>
+  </defs>
+</svg>

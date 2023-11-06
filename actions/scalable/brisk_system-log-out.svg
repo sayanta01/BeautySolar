@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="brisk_system-log-out.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="100.40916"
+     inkscape:cx="17.722486"
+     inkscape:cy="12.688085"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     opacity="0.4"
+     d="M2 5.8917C2 3.1956 4.23326 1 6.97699 1H12.4342C15.1723 1 17.4 3.189 17.4 5.8807V18.1083C17.4 20.8055 15.1667 23 12.4219 23H6.96691C4.22767 23 2 20.811 2 18.1193V17.0853V5.8917Z"
+     fill="url(#paint0_linear_19_69)"
+     id="path1" />
+  <path
+     d="M 22.5663,11.2307 18.2703,6.83928 C 17.8263,6.3864 17.1118,6.3864 16.6692,6.8423 c -0.441,0.4559 -1.319028,1.1769755 -0.876428,1.6298555 0,0 3.157671,2.0459705 2.3538,2.4047595 C 18.023643,10.931781 16.7692,10.891 16.7692,10.891 H 8.63207 C 8.00722,10.891 7.5,11.4118 7.5,12.0534 c 0,0.6431 0.50722,1.1624 1.13207,1.1624 0,0 8.825578,-0.372589 9.627677,-0.08706 0.732731,0.260836 -1.587547,2.491763 -1.587547,2.491763 -0.4426,0.4529 -0.444,1.1881 -0.003,1.644 0.222,0.2279 0.5117,0.3427 0.8028,0.3427 0.2881,0 0.5778,-0.1148 0.7983,-0.3397 l 4.296,-4.3899 C 22.7794,12.6587 22.9,12.3629 22.9,12.0534 c 0,-0.308 -0.1206,-0.6038 -0.3337,-0.8227 z"
+     fill="url(#paint1_linear_19_69)"
+     id="path2"
+     sodipodi:nodetypes="ccccscssssccsccsc" />
+  <defs
+     id="defs5">
+    <linearGradient
+       id="paint0_linear_19_69"
+       x1="9.7"
+       y1="1"
+       x2="9.7"
+       y2="23"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFA355"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#FF5555"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_19_69"
+       x1="15.2"
+       y1="6.5"
+       x2="15.2"
+       y2="17.6072"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#FFA355"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#FF5555"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+</svg>

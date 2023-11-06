@@ -1,58 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="64"
-   height="64"
-   version="1.1"
-   id="svg1047488"
-   sodipodi:docname="application-x-dlc-container.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1047492" />
-  <sodipodi:namedview
-     id="namedview1047490"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="12.921875"
-     inkscape:cx="31.961306"
-     inkscape:cy="32"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="0"
-     inkscape:window-y="29"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1047488" />
-  <path
-     style="opacity:0.2"
-     d="M 12.75,5 C 11.2265,5 10,6.2488 10,7.8 v 50.4 c 0,1.55008 1.2265,2.8 2.75,2.8 h 38.5 C 52.7724,61 54,59.75008 54,58.2 V 23 L 40,19 36,5 Z"
-     id="path1047476" />
-  <path
-     style="fill:#e4e4e4"
-     d="M 12.75,4 C 11.2265,4 10,5.2488 10,6.8 v 50.4 c 0,1.55008 1.2265,2.8 2.75,2.8 h 38.5 C 52.7724,60 54,58.75008 54,57.2 V 22 L 40,18 36,4 Z"
-     id="path1047478" />
-  <path
-     style="opacity:0.2"
-     d="M 54,23 36,5 V 20.1875 C 36,21.74675 37.2555,23 38.8125,23 Z"
-     id="path1047480" />
-  <path
-     style="fill:#fafafa"
-     d="M 54,22 36,4 V 19.1875 C 36,20.74675 37.2555,22 38.8125,22 Z"
-     id="path1047482" />
-  <path
-     style="opacity:0.2;fill:#ffffff"
-     d="M 12.75 4 C 11.2265 4 10 5.2495812 10 6.8007812 L 10 7.8007812 C 10 6.2495813 11.2265 5 12.75 5 L 36 5 L 36 4 L 12.75 4 z"
-     id="path1047484" />
-  <path
-     style="fill:#349634"
-     d="m 30.0008,27.000658 c -0.554008,0 -1.000776,0.480732 -1.000776,1.077342 v 16.92256 h -2.722836 l -0.391242,1.266046 v 0 l 5.478939,7.826618 v 0 l 1.323987,-0.07786 5.451882,-7.788839 v 0 L 37.794579,44.99944 H 35 V 28.07688 c 0,-0.5964 -0.448696,-1.0766 -1.001696,-1.0766 z"
-     id="path1047486"
-     sodipodi:nodetypes="cscccccccccccscc" />
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path opacity="0.4" d="M57 22.3925V48.25C56.996 51.8955 55.5461 55.3906 52.9683 57.9683C50.3905 60.5461 46.8955 61.996 43.25 62H20.75C17.1045 61.996 13.6094 60.5461 11.0317 57.9683C8.4539 55.3906 7.00397 51.8955 7 48.25V15.75C7.00397 12.1045 8.4539 8.60948 11.0317 6.03171C13.6094 3.45395 17.1045 2.00402 20.75 2.00005H36.6075C38.4139 1.99517 40.2033 2.34863 41.8721 3.03995C43.541 3.73127 45.0562 4.74673 46.33 6.02755L52.9725 12.67C54.2533 13.9438 55.2687 15.459 55.9601 17.1279C56.6514 18.7967 57.0048 20.5862 57 22.3925Z" fill="url(#paint0_linear_201_95)"/>
+<path d="M27.9781 24.6998V35.5386C27.9781 37.0447 26.7571 38.2658 25.2509 38.2658H23.6202C23.1017 38.2658 22.5953 38.4105 22.1645 38.6815C21.7335 38.9527 21.3977 39.3377 21.1995 39.7884C21.0012 40.239 20.9492 40.7349 21.0503 41.2133C21.1514 41.6918 21.401 42.1312 21.7673 42.4762L30.0563 50.2778C30.5477 50.7403 31.2142 51 31.9092 51C32.604 51 33.2705 50.7403 33.7619 50.2778L42.051 42.4762C42.4175 42.1312 42.6668 41.6918 42.7679 41.2133C42.869 40.7349 42.8169 40.239 42.6187 39.7884C42.4206 39.3377 42.0847 38.9527 41.6537 38.6815C41.223 38.4105 40.7164 38.2658 40.1982 38.2658H38.5673C37.0611 38.2658 35.8401 37.0447 35.8401 35.5386V24.6998C35.8401 23.7186 35.4257 22.7774 34.6887 22.0836C33.9515 21.3898 32.9518 21 31.9092 21C30.8667 21 29.8666 21.3898 29.1294 22.0836C28.3922 22.7774 27.9781 23.7186 27.9781 24.6998Z" fill="url(#paint1_linear_201_95)"/>
+<defs>
+<linearGradient id="paint0_linear_201_95" x1="32" y1="62" x2="32" y2="2" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00B59C"/>
+<stop offset="1" stop-color="#9CFFAC"/>
+</linearGradient>
+<linearGradient id="paint1_linear_201_95" x1="31.9092" y1="51" x2="31.9092" y2="21" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00B59C"/>
+<stop offset="1" stop-color="#9CFFAC"/>
+</linearGradient>
+</defs>
 </svg>

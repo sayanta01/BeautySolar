@@ -1,1 +1,76 @@
-<svg width="36pt" height="36pt" version="1.1" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg"><defs><clipPath><rect width="36" height="36"/></clipPath><clipPath><rect width="36" height="36"/></clipPath></defs><g transform="translate(-7.5e-5,2e-4)"><path d="m4.7148 3c-0.85938 0-1.7148 0.85547-1.7148 1.7148v26.617c0 0.8125 0.85547 1.668 1.668 1.668h26.664c0.8125 0 1.668-0.85547 1.668-1.668v-26.664c0-0.8125-0.85938-1.668-1.668-1.668z" fill="#bc9676"/><path d="M 4.7148,3 C 3.85542,3 3,3.85547 3,4.7148 V 13 H 33 V 4.668 C 33,3.8555 32.14062,3 31.332,3 Z" fill="#fff" fill-opacity=".19608"/><path d="m15.5 6.332v13.336h5v-13.336z" fill="#fff" fill-opacity=".39216"/><g stroke-width="1.3333"><path transform="scale(.75)" d="m4 39.775v2c0 1.0833 1.1413 2.2246 2.2246 2.2246h35.551c1.0833 0 2.2246-1.1413 2.2246-2.2246v-2c0 1.0833-1.1413 2.2246-2.2246 2.2246h-35.551c-1.0833 0-2.2246-1.1413-2.2246-2.2246z" opacity=".1"/><path transform="scale(.75)" d="M 6.2871,4 C 5.1413,4 4,5.1413 4,6.2871 v 2 C 4,7.1413 5.1413,6 6.2871,6 h 35.488 c 1.0781,0 2.2246,1.1413 2.2246,2.2246 v -2 C 43.9997,5.1413 42.8532,4 41.7751,4 Z" fill="#fff" opacity=".2"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   fill="none"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="x-package-repository (copy).svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="13.3125"
+     inkscape:cx="35.230047"
+     inkscape:cy="68.394366"
+     inkscape:window-width="1550"
+     inkscape:window-height="1005"
+     inkscape:window-x="184"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <path
+     opacity="0.4"
+     d="M11 38C11 22.536 23.536 10 39 10H89C104.464 10 117 22.536 117 38V90C117 105.464 104.464 118 89 118H39C23.536 118 11 105.464 11 90V38Z"
+     fill="url(#paint0_linear_59_383)"
+     id="path1" />
+  <path
+     d="m 64.2058,31.2253 c -0.2823,-0.1418 -0.615,-0.1418 -0.8973,0 L 35.5513,45.1607 C 35.2133,45.3304 35,45.6762 35,46.0544 v 35.8912 c 0,0.3782 0.2133,0.724 0.5513,0.8937 l 27.7572,13.9354 c 0.2823,0.1418 0.615,0.1418 0.8973,0 L 91.963,82.8393 c 0.3379,-0.1697 0.5513,-0.5155 0.5513,-0.8937 V 46.0544 c 0,-0.3782 -0.2134,-0.724 -0.5513,-0.8937 z m -0.8973,9.2812 c 0.2823,-0.1417 0.615,-0.1417 0.8973,0 l 19.5406,9.8105 c 0.338,0.1696 0.5514,0.5155 0.5514,0.8937 v 25.5789 c 0,0.3782 -0.643522,2.004598 -0.981522,2.174298 0,0 -10.983042,8.066736 -17.374978,8.114313 -0.798068,0.0059 -1.750582,-0.310694 -2.1842,-0.980711 -4.632161,-7.157519 2.410024,-17.399056 0,-25.577 C 63.654898,60.173699 63.450136,59.836406 63.1689,59.6092 58.176843,55.576209 48.865913,58.040583 45.159979,52.801145 44.553758,51.944072 44.549723,50.551938 45.0911,49.6525 c 3.504048,-5.821586 18.2174,-9.146 18.2174,-9.146 z"
+     fill="url(#paint1_linear_59_383)"
+     id="path2"
+     sodipodi:nodetypes="cccssccccsscccccsscaaaaaac" />
+  <defs
+     id="defs5">
+    <linearGradient
+       id="paint0_linear_59_383"
+       x1="26.5234"
+       y1="102.184"
+       x2="102.877"
+       y2="27.2436"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_59_383"
+       x1="43.4228"
+       y1="87.3343"
+       x2="89.6532"
+       y2="47.0479"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0072FF"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#00E5A1"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+</svg>
